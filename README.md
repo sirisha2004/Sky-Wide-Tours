@@ -27,6 +27,6 @@ https://sirishapro.netlify.app/
 - Swiper.js (reviews)  
 - Font Awesome  
 
-## Logo
+## 🌐 Logo
 
 <img width="400" height="400" alt="Designer" src="https://github.com/user-attachments/assets/35ae1706-1ded-4fa6-8eb7-4b0f547bae84" />
