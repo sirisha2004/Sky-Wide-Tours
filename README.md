@@ -17,7 +17,7 @@ A modern and responsive travel website built using **HTML**, **CSS**, and **Java
 - script.js             → Menu, search, login & slider logic
 - assets/               → All images and videos
 
-## project live link
+## 💻 Project live link
 https://sirishapro.netlify.app/
 
 ## 🛠️ Tech Stack
